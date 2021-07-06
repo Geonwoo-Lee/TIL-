@@ -4,7 +4,7 @@ import { getFlight } from '../api/FlightDataApi'
 import FlightList from './component/FlightList'
 import LoadingIndicator from './component/LoadingIndicator'
 import Search from './component/Search'
-import Debug from './component/Debug'
+import Debug from './component/Debug' 
 
 import json from '../resource/flightList'
 
