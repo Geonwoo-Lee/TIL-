@@ -10,6 +10,7 @@
 - [다크모드 레포](https://github.com/Geonwoo-Lee/Darkmode)
 - [다크모드 설명](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/Darkmode/TIL20210707.MD)
 - [로그인화면 구현 옛날에 한거](https://github.com/Geonwoo-Lee/Sign-up-js-upgrade)
+- [Slick 라이브러리 설정 및 사용법](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210715.MD)
 - [react hooks 로 구현해본 Slider](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/slider/TIL20210716.MD)
 - [react 라이브러리 Slick 으로 구현해본 Slick slider](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/slickSlider/slick.MD)
 ------------------------------------------------
