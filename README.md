@@ -28,4 +28,4 @@
 - [Node server etc](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210702.MD)
 
 # MySQL
-= [MySQL Basic](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/MySQL/TIL20210717~18MySQL.MD)
+- [MySQL Basic](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/MySQL/TIL20210717~18MySQL.MD)
