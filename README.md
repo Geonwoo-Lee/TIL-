@@ -29,3 +29,6 @@
 
 # MySQL
 - [MySQL Basic](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/MySQL/TIL20210717~18MySQL.MD)
+- [MySQL 정리](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/MySQL/TIL20210719.MD)
+- [MySQL 예제](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/MySQL/TIL20210719M.MD)
+
