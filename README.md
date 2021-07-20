@@ -13,7 +13,7 @@
 - [Slick 라이브러리 설정 및 사용법](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210715.MD)
 - [react hooks 로 구현해본 Slider](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/slider/TIL20210716.MD)
 - [react 라이브러리 Slick 으로 구현해본 Slick slider](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/slickSlider/slick.MD)
-- [z-index에 대해 알아보자](https://github.com/Geonwoo-Lee/TIL-/tree/main/TIL/zindex)
+- [z-index에 대해 알아보자](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/zindex/zindex.MD)
 ------------------------------------------------
 # Redux
 
