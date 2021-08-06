@@ -36,7 +36,7 @@
 # HTTPS, Session & cookie
 - [Seesion & Cookie](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210802.MD)
 - [JWT 토큰, 토큰과 세션의 차이점](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210803.MD)
-- [OAuth 기본 정리](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIl20210804.MD)
+- [OAuth 기본 정리](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210804.MD)
 
 # 컴퓨터 공학 기초
 - [프로세스 스레드, 문자열, 그래픽](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210805.MD)
