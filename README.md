@@ -41,3 +41,7 @@
 # 컴퓨터 공학 기초
 - [프로세스 스레드, 문자열, 그래픽](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210805.MD)
 - [가비지 컬렉션, 캐싱](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210806.MD)
+
+# 네트워크 심화
+- [네트워크 심화 1](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210809.MD)
+- [네트워크 심화 2](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210809(2).MD)
