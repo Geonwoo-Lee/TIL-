@@ -47,3 +47,5 @@
 - [네트워크 심화 2](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210809(2).MD)
 # git 심화
 - [git 심화](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210810.MD)
+# 수업 수동배포 과정 
+- [sprint 수동 배포과정](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210812.MD)
