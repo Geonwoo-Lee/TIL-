@@ -49,3 +49,5 @@
 - [git 심화](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210810.MD)
 # 수업 수동배포 과정 
 - [sprint 수동 배포과정](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210812.MD)
+# 자동배포 과정
+- [Docker 기초](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210814.MD)
