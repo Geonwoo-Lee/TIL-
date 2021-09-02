@@ -33,6 +33,9 @@
 - [MySQL 정리](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/MySQL/TIL20210719.MD)
 - [MySQL 예제](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/MySQL/TIL20210719M.MD)
 
+# Sequelize Advenced
+- [sprint advenced](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210902.MD)
+
 # DataBases
 - [DataBases 기초](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20210831.MD)
 ------------------------------------------------
