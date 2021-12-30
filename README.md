@@ -74,3 +74,5 @@
 - [객체지향 프로그래밍 ](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20211129%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.MD)
 - [함수형 프로그래밍 ](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/TIL20211130%ED%95%A8%EC%88%98%ED%98%95%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.MD)
 
+# 타입스크립트
+- [타입스크립트공부](https://github.com/Geonwoo-Lee/TIL-/blob/main/TIL/typescript.MD)
